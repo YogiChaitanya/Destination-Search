@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.places-card {
+  list-style-type: none;
+
+  margin: 10px;
+}
+
+.place-image {
+  border-radius: 10px;
+
+  width: 200px;
+}
+
+.place {
+  font-family: 'Open Sans';
+}

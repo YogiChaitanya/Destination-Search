@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.card-container {
+  margin: 10px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.places-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.search-input-container {
+  background-color: #f1f5f9;
+  width: 200px;
+  height: 30px;
+
+  border-radius: 5px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.serach-input {
+  background-color: #f1f5f9;
+  border: none;
+  outline: none;
+}
+.serach-icon {
+  height: 20px;
+  width: 20px;
+}
